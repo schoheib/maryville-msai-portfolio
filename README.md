@@ -52,13 +52,7 @@
 > **Languages:** Python, R
 > **Libraries:** pandas, numpy, scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, matplotlib, seaborn, plotly
 > **Tools:** Google Colab, Jupyter Notebook, Git, GitHub
->
-> ---
->
-> ## 📜 Certifications Earned
-> - Post-Baccalaureate Certificate in Fundamentals of Artificial Intelligence
-> - - Post-Baccalaureate Certificate in Machine Learning
->  
+> 
 >   - ---
 >
 > *Built with curiosity, rigor, and a passion for AI. — Schoheib Bafaiz 🚀*
